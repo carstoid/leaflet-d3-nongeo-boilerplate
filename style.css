@@ -1,0 +1,13 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#drawing-container {
+  width: 100vw;
+  height: 100vh;
+}
+
+.leaflet-container {
+    background: rgba(255,255,255,0.0) !important;
+}
